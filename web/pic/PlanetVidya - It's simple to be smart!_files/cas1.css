@@ -1,0 +1,18 @@
+UNKNOWN {
+	COLOR: black; BACKGROUND-COLOR: white
+}
+FONT {
+	FONT-SIZE: 8pt; FONT-FAMILY: verdana,arial
+}
+UL {
+	LIST-STYLE-TYPE: disc
+}
+A:link {
+	FONT-SIZE: 8pt; COLOR: blue; FONT-FAMILY: verdana,arial
+}
+A:visited {
+	COLOR: blue
+}
+A:active {
+	COLOR: red
+}

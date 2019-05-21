@@ -1,0 +1,57 @@
+BODY {
+	MARGIN: 0px
+}
+TD {
+	FONT: 11px Verdana, Arial, Helvetica, sans-serif; COLOR: #003366
+}
+A {
+	FONT-WEIGHT: bold; COLOR: #ff6600
+}
+A:hover {
+	COLOR: #3366cc
+}
+#navigation TD {
+	BORDER-BOTTOM: #c0dffd 2px solid
+}
+#navigation A {
+	PADDING-RIGHT: 6px; DISPLAY: block; PADDING-LEFT: 26px; BACKGROUND: url(mm_arrow.gif) no-repeat 14px 45%; PADDING-BOTTOM: 10px; FONT: 11px/16px Verdana, Arial, Helvetica, sans-serif; COLOR: #003366; PADDING-TOP: 8px; LETTER-SPACING: 0.1em; TEXT-DECORATION: none
+}
+#navigation A:hover {
+	BACKGROUND: url(mm_arrow.gif) #ffffff no-repeat 14px 45%; COLOR: #ff6600
+}
+#logo {
+	FONT: 24px/30px Verdana, Arial, Helvetica, sans-serif; COLOR: #ccff99; LETTER-SPACING: 0.2em
+}
+#tagline {
+	FONT: 12px/18px Verdana, Arial, Helvetica, sans-serif; COLOR: #ff9933; LETTER-SPACING: 0.4em
+}
+#monthformat {
+	BORDER-BOTTOM: #e6f3ff 2px solid
+}
+#dateformat {
+	FONT: 11px Verdana, Arial, Helvetica, sans-serif; COLOR: #003366; LETTER-SPACING: 0.2em
+}
+#dateformat A {
+	FONT: bold 11px Verdana, Arial, Helvetica, sans-serif; COLOR: #003366; LETTER-SPACING: 0.1em
+}
+#dateformat A:hover {
+	COLOR: #ff6600; LETTER-SPACING: 0.1em
+}
+.bodyText {
+	MARGIN-TOP: 0px; FONT: 11px/20px Verdana, Arial, Helvetica, sans-serif; COLOR: #003366
+}
+.pageName {
+	FONT: 18px/24px Verdana, Arial, Helvetica, sans-serif; COLOR: #3366cc; LETTER-SPACING: 0.2em
+}
+.subHeader {
+	FONT: bold 10px/16px Verdana, Arial, Helvetica, sans-serif; COLOR: #3366cc; LETTER-SPACING: 0.2em
+}
+.quote {
+	FONT: 20px/30px Verdana, Arial, Helvetica, sans-serif; COLOR: #759da1
+}
+.smallText {
+	FONT: 10px Verdana, Arial, Helvetica, sans-serif; COLOR: #003366
+}
+.navText {
+	FONT: 11px/16px Verdana, Arial, Helvetica, sans-serif; COLOR: #003366; LETTER-SPACING: 0.1em; TEXT-DECORATION: none
+}
